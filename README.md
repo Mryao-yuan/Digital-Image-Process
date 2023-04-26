@@ -58,7 +58,7 @@
 
    数据集主要图片
 
-   ![image-20230421171552148](./md_img/dataset.png)
+   ![image-20230421171552148](./Project/md_img/dataset.png)
 
 2. 对数据集进行以 `2:1` 比例划分训练集和数据集
    数据集格式:
@@ -87,7 +87,7 @@
 
 主要流程
 
-![](.\md_img\line.png)
+![](./Project/md_img/line.png)
 
 1. 加载原始的人脸识别分类器文件
 
@@ -124,25 +124,25 @@
 
   基于`Harr`级分类器
 
-![image-20230421171832115](./md_img/face_detect.png)
+![image-20230421171832115](./Project/md_img/face_detect.png)
 
 SSD方式检测
 
-![image-20230421171832115](./md_img/detect.png)
+![image-20230421171832115](./Project/md_img/detect.png)
 
 - 人脸预测
 
-![](./md_img/face_predict.png)
+![](./Project/md_img/face_predict.png)
 
 #### 4.结果展示
 
 测试集
 
-<img src=".\md_img\testdataset_result.png" alt="测试集" style="zoom:80%;" />
+<img src="./Project/md_img/testdataset_result.png" alt="测试集" style="zoom:80%;" />
 
 训练集
 
-<img src=".\md_img\traindataset_result.png" alt="image-20230421171732120" style="zoom:80%;" />
+<img src="./Project/md_img/traindataset_result.png" alt="image-20230421171732120" style="zoom:80%;" />
 
 #### 5.结果讨论（说明项目的大致精度，和适用的情况；说明在哪些情况下所给的解决方案可能会失败或者无效；项目有哪些将来可能改进或者提高的方面）
 
